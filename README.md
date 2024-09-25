@@ -1,4 +1,4 @@
-![ocean](https://github.com/user-attachments/assets/c21529ed-ecc7-418e-bfa9-8f64a1c9309b)
+![ocean](https://github.com/user-attachments/assets/44e02134-b698-416c-81e8-fc0635b7da3b)
 
 <h1 align="center">Hi 👋, I'm Alan.</h1>
 <h3 align="center">A passionate full-stack developer in the Bay Area.</h3>
