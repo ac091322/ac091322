@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ac091322" alt="ac091322" /></a> </p>
 
-- 🔭 I’m currently working on [Vapor, a Steam inspired website.](https://vapor-al92.onrender.com)
+- 🔭 I’m currently working on <a href="https://vapor-al92.onrender.com" target="_blank">Vapor, a Steam inspired website.</a>
 
 - 🌱 I’m currently working with **React, Redux, React Router, Flask-SQLAlchemy, and Express while leveraging JavaScript and Python as my primary development languages**
 
