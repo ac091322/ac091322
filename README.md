@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ac091322" alt="ac091322" /></a> </p>
 
-- 🔭 I’m currently working on [Vapor, a Steam inspired website.](https://vapor-al92.onrender.com) (use CTRL or CMD to open in a new window)
+- 🔭 I’m currently working on [Vapor, a Steam inspired website.](https://vapor-al92.onrender.com) (use CTRL+click or CMD+click to open in a new window)
 
 - 🌱 I’m currently working with **React, Redux, React Router, Flask-SQLAlchemy, and Express while leveraging JavaScript and Python as my primary development languages**
 
-- 👯 I've collaborated on [Solocamp, a Bandcamp inspired website](https://solocamp-solo.onrender.com)
+- 👯 I've collaborated on [Solocamp, a Bandcamp inspired website](https://solocamp-solo.onrender.com) (use CTRL+click or CMD+click to open in a new window)
 
-- 🤝 I’m looking for help with [LeetCode practice](https://leetcode.com/)
+- 🤝 I’m looking for help with [LeetCode practice](https://leetcode.com/) (use CTRL+click or CMD+click to open in a new window)
 
-- 👨‍💻 All of my projects are available at [https://ac091322.github.io/my-portfolio/](https://ac091322.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://ac091322.github.io/my-portfolio/](https://ac091322.github.io/my-portfolio/) (use CTRL+click or CMD+click to open in a new window)
 
 - 💬 Ask me about **where I plan to take my next vacation**
 
 - 📫 How to reach me **alanc091322@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1guK_EpXWEdQyRck5S0YIIzyBJKu1msE9WCgjgacdQPo/edit?usp=sharing](https://docs.google.com/document/d/1guK_EpXWEdQyRck5S0YIIzyBJKu1msE9WCgjgacdQPo/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1guK_EpXWEdQyRck5S0YIIzyBJKu1msE9WCgjgacdQPo/edit?usp=sharing](https://docs.google.com/document/d/1guK_EpXWEdQyRck5S0YIIzyBJKu1msE9WCgjgacdQPo/edit?usp=sharing) (use CTRL+click or CMD+click to open in a new window)
 
 - ⚡ Fun fact **I grew up in the Bay Area, spent 16 years in China to experience a different culture, and then came back.**
 
