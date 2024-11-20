@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **alanc091322@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1guK_EpXWEdQyRck5S0YIIzyBJKu1msE9WCgjgacdQPo/edit?usp=sharing](https://docs.google.com/document/d/1guK_EpXWEdQyRck5S0YIIzyBJKu1msE9WCgjgacdQPo/edit?usp=sharing) (use CTRL+click or CMD+click to open in a new window)
+- 📄 Know about my coding and non-coding experiences [https://docs.google.com/document/d/1guK_EpXWEdQyRck5S0YIIzyBJKu1msE9WCgjgacdQPo/edit?usp=sharing]([https://docs.google.com/document/d/1guK_EpXWEdQyRck5S0YIIzyBJKu1msE9WCgjgacdQPo/edit?usp=sharing](https://drive.google.com/file/d/1hViY_659JtbLPzaO7TwDtLdbH56T_YS6/view?usp=sharing)) (use CTRL+click or CMD+click to open in a new window)
 
 - ⚡ Fun fact **I grew up in the Bay Area, spent 16 years in China to experience a different culture, and then came back.**
 
