@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working with **React, Redux, React Router, Flask-SQLAlchemy, and Express while leveraging JavaScript and Python as my primary development languages**
 
-- 👯 I've collaborated on [Solocamp, a Bandcamp inspired website](https://solocamp.onrender.com/)
+- 👯 I've collaborated on [Solocamp, a Bandcamp inspired website](https://solocamp-solo.onrender.com)
 
 - 🤝 I’m looking for help with [LeetCode practice](https://leetcode.com/)
 
