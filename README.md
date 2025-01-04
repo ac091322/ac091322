@@ -1,23 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Alan's Profile</title>
-  <style>
-    body {
-      background-color: #f9f9f9; /* Light background color */
-      color: #333; /* Dark text color */
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
-    h1, h3 {
-      color: #333;
-    }
-  </style>
-</head>
-<body>
-
 <h1 align="center">Hi 👋, I'm Alan.</h1>
 <h3 align="center">A passionate full-stack developer from the Bay Area, California.</h3>
 
@@ -37,11 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ewtpnQT9YiszmKe7xpLGwwgiUA5nwxAw/view?usp=sharing](https://drive.google.com/file/d/1ewtpnQT9YiszmKe7xpLGwwgiUA5nwxAw/view?usp=sharing)
 
-- ⚡ Fun fact **I lived abroad for many years before returning back to the US.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact: **I lived abroad for many years before returning back to the US.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -94,6 +70,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
 </p>
-
-</body>
-</html>
