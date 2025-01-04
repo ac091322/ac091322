@@ -17,11 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ewtpnQT9YiszmKe7xpLGwwgiUA5nwxAw/view?usp=sharing](https://drive.google.com/file/d/1ewtpnQT9YiszmKe7xpLGwwgiUA5nwxAw/view?usp=sharing)
 
-- ⚡ Fun fact **I lived abroad for many years before returning back to the US.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact: **I lived abroad for many years before returning back to the US.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background-color: #f9f9f9; padding: 10px; border-radius: 8px;"> <!-- Add light background color -->
