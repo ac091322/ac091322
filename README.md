@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **alanc091322@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ewtpnQT9YiszmKe7xpLGwwgiUA5nwxAw/view?usp=sharing](https://drive.google.com/file/d/1ewtpnQT9YiszmKe7xpLGwwgiUA5nwxAw/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1ewtpnQT9YiszmKe7xpLGwwgiUA5nwxAw/view?usp=sharing](https://drive.google.com/file/d/1ewtpnQT9YiszmKe7xpLGwwgiUA5nwxAw/view?usp=sharing](https://drive.google.com/file/d/16YYuo_gsB9jFOWMf9FntoBp-6hm8Ahme/view?usp=sharing))
 
 - ⚡ Fun fact: **I lived abroad for many years before returning back to the US.**
 
