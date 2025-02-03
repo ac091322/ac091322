@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **finding a job.**
 
-- 👨‍💻 All of my projects are available at [https://ac091322.github.io/my-portfolio/](https://ac091322.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are in my [portfolio](https://ac091322.github.io/my-portfolio/)
 
 - 💬 Ask me about **where I want to go for my next vacation.**
 
