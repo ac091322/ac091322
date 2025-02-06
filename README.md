@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **alanc091322@gmail.com**
 
-- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/14pP7MxV5cbVHsYLOOoI8M38zZeBciw6B/view?usp=sharing)
+- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/13KbiiSxL6ukmg8BcjWNIIV3ZAcoDZLc1/view?usp=sharing)
 
 - ⚡ Fun fact: **I lived abroad for many years before returning back to the US.**
 
