@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **finding a job.**
 
-- 👨‍💻 All of my projects are in my [portfolio](https://ac091322.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are in my [portfolio](https://ac091322.github.io/my-portfolio/).
 
 - 💬 Ask me about **where I want to go for my next vacation.**
 
-- 📫 How to reach me **alanc091322@gmail.com**
+- 📫 How to reach me **alanc091322@gmail.com**.
 
-- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/12mX35Lnk20M76r5h0rvkxMS9Uu_BMq0X/view?usp=sharing)
+- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/12mX35Lnk20M76r5h0rvkxMS9Uu_BMq0X/view?usp=sharing).
 
 - ⚡ Fun fact: **I lived abroad for many years before returning back to the US.**
 
