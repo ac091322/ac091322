@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **LeetCode.**
 
-- 👯 I’m looking to collaborate on **LeetCode practice.**
+- 👯 I’m looking to collaborate on **finding a job.**
 
 - 🤝 I’m looking for help with **finding a job.**
 
